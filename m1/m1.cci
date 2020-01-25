@@ -1,0 +1,12 @@
+VERSION:3 SOURCE_TIMESTAMP:50396A29
+NODE:I LEVEL:0 LINE:24 "D:\Program Files\cvavr\inc\mega32.h"
+NODE:I LEVEL:0 LINE:26 "D:\Program Files\cvavr\inc\delay.h"
+NODE:I LEVEL:0 LINE:31 "D:\Program Files\cvavr\inc\stdio.h"
+NODE:V LEVEL:0 LINE:32 "a -> R4,R5"
+NODE:M LEVEL:0 LINE:37 "ADC_VREF_TYPE"
+NODE:M LEVEL:0 LINE:38 "DATA_REGISTER_EMPTY"
+NODE:F LEVEL:0 LINE:41 "read_adc(unsigned char adc_input)"
+NODE:F LEVEL:0 LINE:55 "put_char(unsigned char c)"
+NODE:F LEVEL:0 LINE:62 "transmitter(int i)"
+NODE:F LEVEL:0 LINE:72 "ana_comp_isr(void)"
+NODE:F LEVEL:0 LINE:80 "main(void)"

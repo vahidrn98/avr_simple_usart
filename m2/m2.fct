@@ -1,0 +1,5 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"m2.c" LINE:78
+display_temperature DSTACK_USAGE:3 DSTACK_LEVEL:3 FILE:"m2.c" LINE:70
+sprintf DSTACK_USAGE:14 DSTACK_LEVEL:17 FILE:"D:\Program Files\cvavr\lib\stdio.lib" LINE:1462
+_print DSTACK_USAGE:20 DSTACK_LEVEL:37 FILE:"D:\Program Files\cvavr\lib\stdio.lib" LINE:533
+strlen DSTACK_USAGE:2 DSTACK_LEVEL:39 FILE:"D:\Program Files\cvavr\lib\string.lib" LINE:1706
